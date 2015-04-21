@@ -1,0 +1,13 @@
+{
+    "name": "timrodger/tools",
+    "description": "tool code",
+    "authors": [
+        {
+            "name": "Tim Rodger",
+            "email": "tim.rodger@gmail.com"
+        }
+    ],
+    "require": {
+      "guzzle/guzzle": "3.9.*@dev"
+    }
+}
